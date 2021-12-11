@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Johnny Tran, a student at FPT University, also a enthusiastic back-end developer.
 
-My Personal Page : [https://khoatdprofile.web.app](https://khoatdprofile.web.app)
-
 ⚡ Fun fact: I'm usually coding for fun :D
 
 <div>
