@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Johnny Tran, a student at FPT University, also a enthusiastic back-end developer.
 
-⚡ Fun fact: I'm usually coding for fun :D
+⚡ Fun fact: I'm usually coding for fun :D \
 💬 My Discord Server : https://discord.gg/3CtNS3mHpP
 
 <div>
