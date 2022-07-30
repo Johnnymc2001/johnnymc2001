@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Johnny Tran, a student at FPT University, currently studying to be a software engineering
 
-⚡ Fun fact: I'm usually coding for fun :D \
+⚡ Fun fact: I'm usually coding for fun :D
 
 
 <div>
