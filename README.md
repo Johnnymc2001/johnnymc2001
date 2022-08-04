@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Johnny Tran, a student at FPT University, currently studying to be a software engineering
+I'm Johnny Tran, a student at FPT University, currently studying to be a Software Engineer.
 
 ⚡ Fun fact: I'm usually coding for fun :D
 
