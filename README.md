@@ -9,7 +9,4 @@ I'm Johnny Tran, a student at FPT University, currently studying to be a Softwar
 </div>
 
 You can contact me on
-
-💬 My Discord Server : https://discord.gg/3CtNS3mHpP
-
 ✉️ Email : johnnymc2001@gmail.com
