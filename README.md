@@ -9,4 +9,4 @@ I'm Johnny Tran, Software Engineer graduated from FPT University.
 </div>
 
 
-✉️ Email : trandangkhoa270901@gmail.com
+✉️ Email : me@jhmc.dev
