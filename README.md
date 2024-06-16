@@ -2,7 +2,7 @@
 # 💫 About Me:
 - 👋 I'm Johnny Tran, Software Engineer graduated from FPT University.
 - 🔭 I’m currently working as a Web Developer at GEO System Solution Vietnam
-- 🌱 I’m currently learning Laravel and Unity
+- 🌱 I’m currently learning a lot of thing :P (Laravel/Unity/Go/Rust/...)
 - ⚡ Fun fact: I'm usually coding for fun :D
 
 # 💻 Tech Stack:
